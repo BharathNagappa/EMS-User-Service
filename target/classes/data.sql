@@ -1,0 +1,1 @@
+insert into EMPLOYEE(ID,CREATED_DATE,DOB,Name,status)values(1,NOW(),parsedatetime('17-09-2012 18:47:52.69','dd-MM-yyyy hh:mm:ss.SS'),'Bharath','Y')
